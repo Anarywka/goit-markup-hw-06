@@ -687,6 +687,7 @@ img {
   padding-top: 60px;
   padding-bottom: 60px;
   background-color: var(--secondary-background-color);
+  white-space: nowrap;
 }
 .address {
   color: var(--secondary-text-color);
